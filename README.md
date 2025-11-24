@@ -1,16 +1,25 @@
-## Hi there 👋
+💫 About Me:
+---------------
+💡 Data Enthusiast exploring the world of analytics and business insights
 
-<!--
-**DuyCuonggithub/DuyCuonggithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fourth-year Data Science student at University of Economics - Da Nang
 
-Here are some ideas to get you started:
+📊 Passionate about Data Analytics (DA) & Business Analysis (BA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Learning Power BI, SQL, and Python to extract meaningful insights from data
+
+🚀 On a journey to build projects, and career in data
+
+💻 Tech:
+----------
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Numpy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+Contact : 
+------------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dang-duy-cuong-918166270/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcuong1511@gmail.com)
