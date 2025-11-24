@@ -1,14 +1,14 @@
 💫 About Me:
 ---------------
-💡 Data Enthusiast exploring the world of analytics and business insights
+* Data Enthusiast exploring the world of analytics and business insights
 
-🎓 Fourth-year Data Science student at University of Economics - Da Nang
+* Currently in my **Fourth Year** at the University of Economics, Da Nang.
+  
+* Focused on applying **Data Analytics (DA)** and **Business Analysis (BA)** principles.
 
-📊 Passionate about Data Analytics (DA) & Business Analysis (BA)
+* **Proficient in:** Utilizing **Python, SQL, and Power BI** to drive data extraction and visualization.
 
-📌 Learning Power BI, SQL, and Python to extract meaningful insights from data
-
-🚀 On a journey to build projects, and career in data
+* **Seeking opportunities** to build impactful data projects and advance my career in the data field.
 
 💻 Tech:
 ----------
